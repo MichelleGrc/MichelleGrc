@@ -8,7 +8,7 @@
   
   - 🎓 Studying at Multi Data Palembang University
   - 🌱 Currently learning HTML
-  - 💻 All of my projects are available at [Here!](github.com/MichelleGrc)
+  - 💻 All of my projects are available at [Here!](https://github.com/MichelleGrc)
   - 📫 You can contact me by [Email!](mailto:michellegraciela@mhs.mdp.ac.id)
   
 ### — Languages and Tools :
